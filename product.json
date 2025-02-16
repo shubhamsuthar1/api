@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Exost Fan",
+      "price": 1500,
+      "description": "Fan by Bajaj",
+      "category": "Home Appliance",
+      "image": "/img/exost fan.webp",
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      }
+    },
+    {
+      "id": 2,
+      "title": "Selling Fan",
+      "price": 1500,
+      "description": "Fan by Anchor",
+      "category": "Home Appliance",
+      "image": "/img/Seling Fan image.webp",
+      "rating": {
+        "rate": 4.2,
+        "count": 150
+      }
+    },
+    {
+      "id": 3,
+      "title": "Pedesti Fan",
+      "price": 1500,
+      "description": "Fan by Crompton",
+      "category": "Home Appliance",
+      "image": "/img/Pedesti Fan images.webp",
+      "rating": {
+        "rate": 4.1,
+        "count": 180
+      }
+    },
+    {
+      "id": 4,
+      "title": "Wall Fan",
+      "price": 1500,
+      "description": "Fan by Orient",
+      "category": "Home Appliance",
+      "image": "/img/wall-Fan.webp",
+      "rating": {
+        "rate": 4.3,
+        "count": 250
+      }
+    },
+    {
+      "id": 5,
+      "title": "Pandist Fan",
+      "price": 1300,
+      "description": "Fan by Bajaj",
+      "category": "Home Appliance",
+      "image": "/img/bajaj/IMG-20240820-WA0012.webp",
+      "rating": {
+        "rate": 4.0,
+        "count": 100
+      }
+    }
+  ]
+  
